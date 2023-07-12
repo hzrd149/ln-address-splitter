@@ -1,6 +1,6 @@
 {
   "name": "ln-prism",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "type": "module",
   "main": "./build/index.js",
   "typings": "./build/index.d.ts",
